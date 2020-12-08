@@ -1,7 +1,7 @@
 package factory;
 
 /**
- * 工厂模式
+ * 三种工厂模式
  * @author zhangchongyu
  */
 public interface Car {
